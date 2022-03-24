@@ -42,9 +42,9 @@ Gyro Code ([C](./resolveuid/58733813e7437bfe9f32e75788988d38)) (Courtesy of Howa
 Datasheets
 ----------
 
-zvn4206a FET (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.diodes.com/datasheets/ZVN4206A.pdf))
+zvn4206a FET ([PDF](http://www.diodes.com/datasheets/ZVN4206A.pdf))
 
-HandyBoard (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-robotics.cs.umass.edu/~grupen/503/HandyBoard/HandyBoardManual.pdf))
+HandyBoard ([PDF](http://www-robotics.cs.umass.edu/~grupen/503/HandyBoard/HandyBoardManual.pdf))
 
 Sharp Distance Sensor 2Y0A02 ([PDF](http://sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a02_e.pdf))
 
