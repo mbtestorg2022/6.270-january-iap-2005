@@ -5,6 +5,7 @@ description: 'Handout covering the following topics: introduction, attack of the
   IC commands for 6.270, and expansion board assembly.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-270-autonomous-robot-design-competition-january-iap-2005/49a25d3e342679462df656a39c26b76e_notes.pdf
 file_type: application/pdf
+parent_uid: e1fa88d6-2b48-838f-acce-59839073406b
 resourcetype: Document
 title: notes.pdf
 uid: 49a25d3e-3426-7946-2df6-56a39c26b76e

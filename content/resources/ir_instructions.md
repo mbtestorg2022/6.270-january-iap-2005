@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e1fa88d6-2b48-838f-acce-59839073406b
 resourcetype: Image
 title: ir_instructions.jpg
 uid: ef0419f7-6bbd-c5c9-e181-5bffa024d54e

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e1fa88d6-2b48-838f-acce-59839073406b
 resourcetype: Image
 title: table_coordinate.jpg
 uid: cc6f645d-55d8-c020-5793-86d20c1b573d
